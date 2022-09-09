@@ -30,5 +30,8 @@
     "testPathIgnorePatterns": [
       "generator-exercise/"
     ]
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001390"
   }
 }
